@@ -1,3 +1,13 @@
+let x = 1;
+
+function myFunction(){
+    console.log("x =" +x);
+    let y = 2;
+}
+function myOtherFunction(){
+    let z =3;
+}
+console.log("y= "+y)
 // STEP 1: Declare and initialize a global variable (x = 1)
 
 
